@@ -3,6 +3,7 @@
 html {
     font-size: 15px;
 }
+
 body {
     font-size: 1em;
     background-color: hsl(212, 45%, 89%);
@@ -44,17 +45,18 @@ p {
 }
 
 img {
-    width: 100%; 
+    width: 100%;
     border-radius: 20px;
 
 }
 
-.attribution { 
-    font-size: 11px; 
-    text-align: center; 
+.attribution {
+    font-size: 11px;
+    text-align: center;
     width: 100%;
     margin: 20px;
 }
-.attribution a { 
+
+.attribution a {
     color: hsl(228, 45%, 44%);
- }
+}
